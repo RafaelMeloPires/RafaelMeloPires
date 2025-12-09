@@ -1,7 +1,6 @@
-<h1 align="center">Olá, eu sou o Rafael Pires! 👋</h1>
-<h3 align="center">Estudante de Programação 🚀</h3>
-
----
+<p align="center">
+  <img src="./banner.png" style="width:100%; height:250px; object-fit:cover;" />
+</p>
 
 ## 📊 GitHub Stats
 
