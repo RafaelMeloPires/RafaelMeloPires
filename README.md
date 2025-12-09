@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Rafael Pires! 👋</h1>
+<h3 align="center">Estudante de Programação 🚀</h3>
 
-<!--
-**RafaelMeloPires/RafaelMeloPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <!-- Estatísticas -->
+  <img height="150em" src="https://githubstats-sage.vercel.app/api?username=RafaelMeloPires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <!-- Linguagens mais usadas -->
+  <img height="150em" src="https://githubstats-sage.vercel.app/api/top-langs/?username=RafaelMeloPires&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🛠️ Tecnologias
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Cpp" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
+
+---
+
+## 🔗 Redes
+
+<a href="https://instagram.com/https://www.instagram.com/rafaelmelo_p/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rafaelmpires52@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
