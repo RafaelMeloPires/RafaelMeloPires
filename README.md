@@ -7,10 +7,10 @@
 <div align="center">
 
   <!-- Estatísticas -->
-  <img height="150em" src="https://githubstats-sage.vercel.app/api?username=RafaelMeloPires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0"/>
+  <img height="150em" src="https://githubstats-sage.vercel.app/api?username=RafaelMeloPires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&?cache_seconds=3600"/>
 
   <!-- Linguagens mais usadas -->
-  <img height="150em" src="https://githubstats-sage.vercel.app/api/top-langs/?username=RafaelMeloPires&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=0"/>
+  <img height="150em" src="https://githubstats-sage.vercel.app/api/top-langs/?username=RafaelMeloPires&layout=compact&langs_count=7&theme=tokyonight&?cache_seconds=3600"/>
 
 </div>
 
